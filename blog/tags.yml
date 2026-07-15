@@ -1,0 +1,9 @@
+転職:
+  label: recruit
+  permalink: /recruit
+  description: 転職関連の記事です。
+
+退職代行:
+  label: resign
+  permalink: /resign
+  description: 退職関連の記事です。
