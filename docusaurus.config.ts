@@ -25,7 +25,6 @@ const config: Config = {
   organizationName: "kazupi656", // Usually your GitHub org/user name.
   projectName: "tenshoku-dango", // Usually your repo name.
   onBrokenLinks: "throw",
-  deploymentBranch: "main",
   trailingSlash: false,
 
   // Even if you don't use internationalization, you can use this field to set
