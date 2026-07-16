@@ -65,6 +65,9 @@ const config: Config = {
   ],
 
   themeConfig: {
+    metadata: [
+      {name: "google-site-verification", content: "Z6uc0KmLd2EWB2mxGEyoPnTsSAwvanOSWXUBI7zHemU"},
+    ],
     // Replace with your project's social card
     image: "img/social-card.png",
     colorMode: {
